@@ -1,0 +1,4 @@
+[example-cli-client]
+clientID = example-cli-client
+clientSecret = secret
+providerUrl = https://www.example.test/keycloak/realms/golang-oidc
