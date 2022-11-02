@@ -1,3 +1,9 @@
+/* author: B1 Systems GmbH
+ * authoremail: info@b1-systems.de
+ * license: MIT License <https://opensource.org/licenses/MIT>
+ * summary: OpenID Connect example
+ * */
+
 /* Demonstration of OIDC 2.0 Authorization Flow from a CLI program
    Draws heavily from: https://medium.com/@balaajanthan/openid-flow-from-a-cli-ac45de876ead */
 
